@@ -1,3 +1,5 @@
+A Drad and Drop React web application, built with [react-beautiful-dnd (rbd)](https://github.com/atlassian/react-beautiful-dnd).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
