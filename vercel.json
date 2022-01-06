@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    {"source": "/read/:path*", "destination": "https://read.cardtonic.com/:path*/"}
+  ]
+}
