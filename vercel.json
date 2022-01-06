@@ -1,14 +1,5 @@
 {
   "rewrites": [
-    {
-      "source": "/read/:path*",
-      "has": [
-        {
-          "type": "host",
-          "value": "read.cardtonic.com"
-        }
-      ],
-      "destination": "/:path*"
-    }
+    { "source": "/read/:match*", "destination": "https://read.cardtonic.com/:match*" }
   ]
 }
