@@ -3,3 +3,18 @@
     {"source": "/read/:path*", "destination": "https://read.cardtonic.com/:path*/"}
   ]
 }
+
+{
+  "rewrites": [
+    {
+      "source": "/read/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "read.cardtonic.com"
+        }
+      ],
+      "destination": "/:path*"
+    }
+  ]
+}
