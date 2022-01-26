@@ -117,6 +117,9 @@ export default function ClippedDrawer({children, column}) {
             <Link variant="button" color="textPrimary" href="#" className={classes.link}>
               Support
             </Link>
+            <Link variant="button" color="textPrimary" href="/read" className={classes.link}>
+              Blog
+            </Link>
           </nav>
           <Button href="#" color="primary" variant="outlined" className={classes.link}>
             Login
