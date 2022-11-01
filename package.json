@@ -2,6 +2,11 @@
   "name": "idea-sorting-app",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "16.x",
+    "yarn": "1.22.10",
+    "npm": "7.x"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
