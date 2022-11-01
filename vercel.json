@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    {"source": "/read/:match*", "destination": "https://blg.nosh.ng/:match*"},
-    {"source": "/read/:match*/", "destination": "https://blg.nosh.ng/:match*"}
+    {"source": "/read/:match*", "destination": "https://blog.adeleke.me/:match*"},
+    {"source": "/read/:match*/", "destination": "https://blog.adeleke.me/:match*"}
   ]
 }
