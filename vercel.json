@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    {"source": "/read/:match*", "destination": "https://read.cardtonic.com/:match*"},
-    {"source": "/read/:match*/", "destination": "https://read.cardtonic.com/:match*"}
+    {"source": "/read/:match*", "destination": "https://blog.nosh.ng/:match*"},
+    {"source": "/read/:match*/", "destination": "https://blog.nosh.ng/:match*"}
   ]
 }
