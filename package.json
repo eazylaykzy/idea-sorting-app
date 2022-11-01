@@ -4,7 +4,7 @@
   "private": true,
   "engines": {
     "node": "16.x",
-    "yarn": "1.22.10",
+    "yarn": "1.22.x",
     "npm": "7.x"
   },
   "dependencies": {
